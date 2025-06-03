@@ -1,0 +1,5 @@
+ subnet01_ip = "10.1.0.0/24"
+ subnet02_ip = "10.2.0.0/24"
+ igw01-name  =  "igw01"
+sg01_name    =   "sg01"
+ipaddress    =   "172.16.0.0/24"
